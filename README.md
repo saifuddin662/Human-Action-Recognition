@@ -5,7 +5,7 @@ learning models in Keras using pre-trained models as their basis.
 
 ## Dependencies
 
-- Python 3.5+
+- Python 3.6
 - Imagemagick 7+
 
 ## Running the Example
