@@ -1,4 +1,4 @@
-# A Deep residual learnig for human action recognition
+# A Deep residual learning for human action recognition
 
 Train, predict, visualize, and produce class-activation map animations for deep
 learning models in Keras using pre-trained models as their basis.
