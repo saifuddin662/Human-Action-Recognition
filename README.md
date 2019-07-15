@@ -1,4 +1,4 @@
-# A deep residual model for human action recognition
+# A Deep Residual CNN Based Model for Human Action Recognition System
 
 Train, predict, visualize, and produce class-activation map animations for deep
 learning models in Keras using pre-trained models as their basis.
